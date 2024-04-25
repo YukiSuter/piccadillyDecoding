@@ -1,0 +1,72 @@
+# Silent Announcement
+
+C
+1
+038D - Index (909)
+A
+0041C200
+0000006D
+
+# Alarm operated in vestibule
+C
+1
+038e - Index (910)
+A
+0041C400
+00000073
+
+# This is Cockfosters
+C
+1
+0065 - Index (101)
+A
+00421100 - Announcement String Address
+001BE937 - This is announcement
+001BE961 - Cockfosters
+
+
+# This is Oakwood
+C
+1
+0067 - Index (103)
+A
+00421300 - Announcement String Address
+001BE937 - This is announcement
+001BE96D - Station
+
+
+# This is Southgate
+C
+1
+0068 - Index (103)
+A
+00421500 - Announcement String Address
+001BE937 - This is announcement
+001BE973 - Station
+
+# This is Arnos Grove
+C
+1
+0069 - Index (103)
+A
+00421700 - Announcement String Address
+001BE937 - This is announcement
+001BE979 - Station
+
+# This is Bounds Green
+C
+1
+006B - Index (107)
+A
+00421900 - Announcement String Address
+001BE937 - This is announcement
+001BE985 - Station
+
+# This is Wood Green
+C
+1
+006C - Index (108)
+A
+00421B00 - Announcement String Address
+001BE937 - This is announcement
+001BE98B - Station
